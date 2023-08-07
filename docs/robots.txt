@@ -1,1 +1,1 @@
-Sitemap: https://reuning.github.io/quarto_root_url/sitemap.xml
+Sitemap: https://kevinreuning.com/quarto_root_url/sitemap.xml

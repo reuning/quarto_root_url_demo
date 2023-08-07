@@ -4,6 +4,6 @@
     "href": "index.html",
     "title": "Main",
     "section": "",
-    "text": "This is a website. It is deployed"
+    "text": "This is a website. It is hosted via netlify in a subdirectory using the info here.\nIn particular this is the redirect language on the mainsite:\n/quarto_root_url/* https://jovial-florentine-feba38.netlify.app/:splat 200!"
   }
 ]

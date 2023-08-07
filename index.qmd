@@ -2,4 +2,10 @@
 title: "Main"
 ---
 
-This is a website. It is deployed 
+This is a website. It is hosted via netlify in a subdirectory using the [info here.](https://docs.netlify.com/routing/redirects/rewrites-proxies/#proxy-to-another-netlify-site)
+
+In particular this is the redirect language on the mainsite:
+
+```
+/quarto_root_url/* https://jovial-florentine-feba38.netlify.app/:splat 200!
+```
